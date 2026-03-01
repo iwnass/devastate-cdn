@@ -1,0 +1,10 @@
+[
+  {
+    "version": "1.0.0",
+    "date": "2025-11-01",
+    "title": "Server Launch",
+    "changes": [
+      { "type": "new", "text": "Welcome to Devastate Roleplay!" }
+    ]
+  }
+]
