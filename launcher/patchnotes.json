@@ -6,33 +6,5 @@
     "changes": [
       { "type": "new", "text": "Welcome to Devastate Roleplay!" }
     ]
-  },
- 
-  {
-   "version": "1.1.0",
-   "date": "2026-3-03",
-   "title": "testt",
-   "changes": [
-     { "type": "new", "text": "test patchnote" }
-   ]
- },
-
- {
-   "version": "1.2.0",
-   "date": "2026-3-03",
-   "title": "testt",
-   "changes": [
-     { "type": "balancr", "text": "test balance" }
-   ]
- },
-
- {
-   "version": "1.3.0",
-   "date": "2026-3-03",
-   "title": "testt",
-   "changes": [
-     { "type": "fix", "text": "test fix" }
-   ]
- }
-  
+  }
 ]
