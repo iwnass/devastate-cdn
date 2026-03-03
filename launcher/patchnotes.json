@@ -6,5 +6,15 @@
     "changes": [
       { "type": "new", "text": "Welcome to Devastate Roleplay!" }
     ]
-  }
+  },
+ 
+  {
+   "version": "1.1.0",
+   "date": "2026-3-03",
+   "title": "testt",
+   "changes": [
+     { "type": "new", "text": "test patchnote" }
+   ]
+ }
+  
 ]
