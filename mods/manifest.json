@@ -1,9 +1,14 @@
 {
   "mods": [
     {
-      "filename": "optifine.jar",
+      "filename": "xaerolib.jar",
+      "md5": "3467A5423C69C40748A3B84C264D9BFC",
+      "url": "https://iwnass.github.io/devastate-cdn/mods/xaerolib.jar"
+    },
+    {
+      "filename": "xaeros-map.jar",
       "md5": "1EB805D217D4E5A51868B160C2200943",
-      "url": "https://iwnass.github.io/devastate-cdn/mods/optifine.jar"
+      "url": "https://iwnass.github.io/devastate-cdn/mods/xaeros-map.jar"
     }
   ]
 }
