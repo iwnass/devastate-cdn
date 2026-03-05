@@ -1,5 +1,13 @@
 [
   {
+    "version": "1.1.0",
+    "date": "2025-11-01",
+    "title": "test",
+    "changes": [
+      { "type": "fix", "text": "added 11:21" }
+    ]
+  },
+  {
     "version": "1.0.0",
     "date": "2025-11-01",
     "title": "Server Launch",
