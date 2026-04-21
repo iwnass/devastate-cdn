@@ -9,6 +9,11 @@
       "filename": "malilib.jar",
       "md5": "41C5674C52FE9CBA5C56EDC717A2CFB0",
       "url": "https://iwnass.github.io/devastate-cdn/mods/malilib.jar"
+    },
+    {
+      "filename": "optifine.jar",
+      "md5": "9D323219BDEBF4E22A1D90F99F839CC0",
+      "url": "https://iwnass.github.io/devastate-cdn/mods/optifine.jar"
     }
   ]
 }
