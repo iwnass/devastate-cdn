@@ -14,6 +14,11 @@
       "filename": "optifine.jar",
       "md5": "9D323219BDEBF4E22A1D90F99F839CC0",
       "url": "https://iwnass.github.io/devastate-cdn/mods/optifine.jar"
+    },
+    {
+      "filename": "construction-deo.jar",
+      "md5": "5F9FE077F52877BD03D06811D8857708",
+      "url": "https://iwnass.github.io/devastate-cdn/mods/construction.jar"
     }
   ]
 }
