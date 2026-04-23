@@ -19,6 +19,16 @@
       "filename": "traffic-plus.jar",
       "md5": "453DE7C9E3E86A5E770A03F1507AEE25",
       "url": "https://iwnass.github.io/devastate-cdn/mods/traffic-plus.jar"
+    },
+    {
+      "filename": "obfuscate.jar",
+      "md5": "514FE4C6C39BC1B7E474D813DAAB593E",
+      "url": "https://iwnass.github.io/devastate-cdn/mods/obfuscate.jar"
+    },
+    {
+      "filename": "tac-release.jar",
+      "md5": "AD52FA4804A4600028C0B0B675CECA39",
+      "url": "https://iwnass.github.io/devastate-cdn/mods/tac-release.jar"
     }
   ]
 }
